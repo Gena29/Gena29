@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gena29 from Venezuela.
+- 👀 I’m interested in learn.
+- 🌱 I’m currently learning js, html and ccs...
